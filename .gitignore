@@ -9,3 +9,4 @@ __pycache__/
 hf_cache/
 *.pyc
 .env
+hftoken.txt
